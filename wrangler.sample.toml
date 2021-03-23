@@ -1,0 +1,10 @@
+name = "proxy-sub-generator-worker"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+kv_namespaces = [
+  { binding = "SSSUBS", id = "", preview_id = "" }
+]
